@@ -1,0 +1,15 @@
+output/forecast/UGnet+32+200+quad+0.1+200+ddpm+12+8+True+PEMS08+0.0+True+False+0.002+8.pkl
+output/gpustat/gpustat.txt
+output/log/[PEMS08]mae 360.62+UGnet+32+200+quad+0.1+200+ddpm+12+8+True+PEMS08+0.0+True+False+0.002+8.log
+output/log/UGnet+32+200+quad+0.1+200+ddpm+12+8+True+PEMS08+0.0+True+False+0.002+8.log
+output/metrics/DiffSTG.csv
+output
+output/model/UGnet+32+200+quad+0.1+200+ddpm+12+8+True+PEMS08+0.0+True+False+0.002+8N-200+T_h-12+T_p-12+epsilon_theta-UGnet.dm4stg
+utils/__pycache__/__init__.cpython-38.pyc
+utils/__pycache__/common_utils.cpython-38.pyc
+utils/__pycache__/eval.cpython-38.pyc
+utils/__pycache__/gpu_dispatch.cpython-38.pyc
+algorithm/__pycache__/dataset.cpython-38.pyc
+algorithm/diffstg/__pycache__/graph_algo.cpython-38.pyc
+algorithm/diffstg/__pycache__/model.cpython-38.pyc
+algorithm/diffstg/__pycache__/ugnet.cpython-38.pyc
